@@ -169,7 +169,7 @@ mark{
     text-align:justify;
     margin-left: 15px;
     font-size: 80px;
-    color: #c5c21e5f;
+    color: #ff77008f;
     text-shadow:  0.1px black;
 }
 
@@ -182,4 +182,16 @@ mark{
 }
 .mark2{
     background-color: rgba(245, 245, 245, 0.197);
+}
+
+.morph4 p{
+    font-family: vintage;
+    font-size: 22px;
+    color: #ff7700;
+    margin-left: 5px;
+    margin-top: 22px;
+}
+
+.mark3{
+    background-color: #ff770093;
 }
